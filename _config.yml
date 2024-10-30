@@ -38,23 +38,23 @@ features                                  :
 
   - title                                 : Real-Time Live Feed
     description                           : Instantly access live data on unusual option trades. Our app continuously scans the market to provide you with the most up-to-date information, helping you make timely decisions.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : tv
     
   - title                                 : Customizable Filters
     description                           : Tailor your experience by creating custom filters for the live feed. Exclude trades that don't meet your criteria to focus on what matters most to your strategy.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : filter
 
   - title                                 : Smart Notifications
     description                           : Configure personalized notification alerts to be notified whenever a trade matches your specific requirements. Receive push notifications directly to your device, ensuring you never miss an opportunity.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : bell
 
   - title                                 : User-Friendly Interface
     description                           : Navigate effortlessly with an intuitive design that caters to both novice and experienced traders, providing a seamless user experience.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : mobile
 
   - title                                 : Stay Informed
     description                           : Gain insights into market trends with our detailed analysis and reporting features to make informed trading decisions.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : magic
   
   # - title                                 : Feature List
   #   description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
